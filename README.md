@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Estevan 👋
 
-<!--
-**estevanfernandes/estevanfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on cybersecurity, both offensive and defensive.
 
-Here are some ideas to get you started:
+## What I'm into
+- Web application and network security
+- Penetration testing and vulnerability analysis
+- Security monitoring and incident response
+- Linux, networking and security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I learn
+I learn by doing: hands-on labs, CTF challenges and my own home lab. I'm building a collection of write-ups and security projects here.
+
+## Find me
+- LinkedIn: [linkedin.com/in/estevansf](https://www.linkedin.com/in/estevansf)
+- TryHackMe: [tryhackme.com/p/estvn23](https://tryhackme.com/p/estvn23)
