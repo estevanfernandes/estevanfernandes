@@ -13,4 +13,4 @@ I learn by doing: hands-on labs, CTF challenges and my own home lab. I'm buildin
 
 ## Find me
 - LinkedIn: [linkedin.com/in/estevansf](https://www.linkedin.com/in/estevansf)
-- TryHackMe: [tryhackme.com/p/estvn23](https://tryhackme.com/p/estvn23)
+- TryHackMe: [tryhackme.com/p/estvn23](https://tryhackme.com/p/estevan)
